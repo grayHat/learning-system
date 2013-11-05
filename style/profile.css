@@ -1,0 +1,27 @@
+#logo{
+height: 80px;
+text-align: center;
+font-size: 50px;
+color: black;
+}
+#logo a{
+color: black;
+}
+h2{
+text-align:center;
+}
+.input-group{
+width: 400px;
+}
+.panel{
+margin: auto;
+text-align: center;
+width: 450px;
+}
+.btn a{
+color: white;
+}
+.btn a:hover{
+color: red;
+text-decoration:none;
+}

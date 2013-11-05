@@ -1,0 +1,22 @@
+*
+{
+	width:480px;
+	height:10px;
+	border:1px solid black;
+}
+classes,lessons
+{
+display:table;
+}
+class,lesson
+{
+	display:table-row;
+}
+name,materials
+{
+	display:table-cell;
+}
+materials material
+{
+	background-color:yellowgreen;
+}
